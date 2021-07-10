@@ -1,2 +1,0 @@
-frontend
-to test react component on frontend
