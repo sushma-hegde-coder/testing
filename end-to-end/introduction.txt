@@ -1,2 +1,4 @@
+black box testing --you are not looking at the code -- u r looking at UI, using browser --only you go through workflow of application
+
 Java - Selenium
 Javascript - Cypress
