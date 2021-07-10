@@ -1,0 +1,2 @@
+run all test files -npm run test
+run one tets file- npm run test app.controller.spec,ts
