@@ -1,3 +1,0 @@
-common purpose js testing framework
-to test javascript code---wherever js is there irrespective of whether it is frontend or backend
-can test individual functions, classes, services or modules
